@@ -41,13 +41,13 @@
 
    
 ⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
-1) https://vashkosmetolog.by/ 
-2) https://flexoil.by/
-3) https://vetdom.by/
-4) https://www.bsmu.by/
-5) https://uprav.ru/ ( редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
+1) https://vashkosmetolog.by/  (страницы - Главная, Онлайн консультация)
+2) https://flexoil.by/ (страницы - Главная, Контакты)
+3) https://vetdom.by/ (cтраницы - Главная и ZOOHOUSE)
+4) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
+5) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
 и др.
-6) https://bnb.by/ 
+6) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
 
 
 
