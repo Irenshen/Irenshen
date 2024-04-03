@@ -21,7 +21,7 @@
 - скурпулёзность
 
 
-⚡ <b>Коммерческие проекты по администрированию сайтов:</b>
+⚡ <b>Коммерческие проекты по АДМИНИТРИРОВАНИЮ сайтов:</b>
 1) http://ditva.by/
 2) https://bellegprom.by/
 3) https://online.maxi-english.by/
@@ -29,14 +29,14 @@
 5) https://nlc.by/
 
 
-⚡ <b>Вёрстка сайтов в рамках обучения</b>
+⚡ <b>ВËРСТКА сайтов в рамках обучения</b>
 1) https://irenshen.github.io/PizzaTime/
 2) https://irenshen.github.io/Japan/
 3) https://irenshen.github.io/TestSite/
 4) https://irenshen.github.io/BSMU/
 
    
-⚡ <b>Коммерческая вёрстка сайтов (некоторые сайты в паре с другим верстальщиком)</b>
+⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
 1) https://vashkosmetolog.by/ 
 2) https://flexoil.by/ 
 3) https://www.bsmu.by/
