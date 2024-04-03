@@ -41,9 +41,9 @@
    
 ⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
 1) https://vashkosmetolog.by/ 
-2) https://flexoil.by/ 
-3) https://www.bsmu.by/
-4) https://vetdom.by/
+2) https://flexoil.by/
+3) https://vetdom.by/
+4) https://www.bsmu.by/
 5) https://uprav.ru/ ( редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
 и др.
 6) https://bnb.by/ 
