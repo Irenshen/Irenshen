@@ -27,6 +27,9 @@
 3) https://online.maxi-english.by/
 4) https://torgynitri.by/
 5) https://nlc.by/
+6) https://itach-soft.com/
+7) https://www.bsmu.by/
+8) https://ph2.by/
 
 
 ⚡ <b>ВËРСТКА сайтов в рамках обучения</b>
@@ -41,7 +44,8 @@
 2) https://flexoil.by/ 
 3) https://www.bsmu.by/
 4) https://vetdom.by/
-5) https://uprav.ru/
+5) https://uprav.ru/ ( редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
+и др.
 6) https://bnb.by/ 
 
 
