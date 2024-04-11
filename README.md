@@ -20,13 +20,6 @@
 - Английский язык  B1
 
 
-
-😄 <b>SOFT SKILLS:</b>
-- способность быстро обучаться
-- грамотность
-- скурпулёзность
-
-
 ⚡ <b>Коммерческие проекты по АДМИНИТРИРОВАНИЮ сайтов:</b>
 1) http://ditva.by/
 2) https://bellegprom.by/
@@ -63,6 +56,11 @@
 **Irenshen/Irenshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+😄 <b>SOFT SKILLS:</b>
+- способность быстро обучаться
+- грамотность
+- скурпулёзность
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
