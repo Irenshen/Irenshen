@@ -29,6 +29,7 @@
 6) https://itach-soft.com/
 7) https://www.bsmu.by/
 8) https://ph2.by/
+9) https://bazarchik.by/
 
 
 ⚡ <b>ВËРСТКА сайтов в рамках обучения</b>
