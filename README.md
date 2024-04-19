@@ -43,11 +43,13 @@
 1) https://vashkosmetolog.by/  (страницы - Главная, Онлайн консультация)
 2) https://flexoil.by/ (страницы - Главная, Контакты)
 3) https://vetdom.by/ (cтраницы - Главная и ZOOHOUSE)
-4) https://irenshen.github.io/camping/
-5) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
-6) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
+4) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
+5) https://irenshen.github.io/camping/
+6) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
+7) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
 и др.
-7) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
+8) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
+   
 
 
 
