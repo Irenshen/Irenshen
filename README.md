@@ -40,15 +40,16 @@
 
    
 ⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
-1) https://vashkosmetolog.by/  (страницы - Главная, Онлайн консультация)
-2) https://flexoil.by/ (страницы - Главная, Контакты)
-3) https://vetdom.by/ (cтраницы - Главная и ZOOHOUSE)
-4) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
-5) https://irenshen.github.io/camping/
-6) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
-7) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
+1) https://autogroup.by/
+2) https://vashkosmetolog.by/  (страницы - Главная, Онлайн консультация)
+3) https://flexoil.by/ (страницы - Главная, Контакты)
+4) https://vetdom.by/ (cтраницы - Главная и ZOOHOUSE)
+5) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
+6) https://irenshen.github.io/camping/
+7) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
+8) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
 и др.
-8) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
+9) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
    
 
 
