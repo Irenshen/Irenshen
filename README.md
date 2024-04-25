@@ -45,7 +45,7 @@
 1) https://autogroup.by/
 2) https://irenshen.github.io/camping/ 
 3) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
-4) https://github.com/Irenshen/medmagazin
+4) https://github.com/Irenshen/medmagazin/
 5) https://vashkosmetolog.by/  (страницы - Главная, Онлайн консультация)
 6) https://flexoil.by/ (страницы - Главная, Контакты)
 7) https://vetdom.by/ (cтраницы - Главная и ZOOHOUSE)
