@@ -17,7 +17,7 @@
 - Flex,Grid
 - Адаптивная вёрстка
 - Семантичкая вёрстка
-- Кроссбраузерная вёрстка  <!--  https://www.browserstack.com/   http://iloveadaptive.com/ru/--> 
+- Кроссбраузерная вёрстка  <!-- i can use,  https://www.browserstack.com/,   http://iloveadaptive.com/ru/--> 
 - Оптимизация скорости загрузки страницы
 - Тестирование и отладка вёрстки
 - Базовые анимации сss и svg
