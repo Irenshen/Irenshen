@@ -29,7 +29,11 @@
 
   
  <!-- https://pagespeed.web.dev/ Google PageSpeed Insights (минимизация файлов, оптимизация изображений https://imagecompressor.com/ru/ , wolf-шрифт, объелинение стилей и скриптов)-->
- <!--  loading="lazy"-->
+ <!--  loading="lazy"
+ <img src="picture.jpg" loading="lazy">
+
+<iframe src="supplementary.html" loading="lazy"></iframe>
+-->
  <!-- Валидность вёрстки https://validator.w3.org/ -->
 
 
