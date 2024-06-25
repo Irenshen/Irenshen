@@ -60,7 +60,7 @@
 
    
 ⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
-1)https://itach.by/
+1) https://itach.by/
 2) https://medmag.bsmu.by/
 3) https://autogroup.by/
 4) https://irenshen.github.io/camping/ 
