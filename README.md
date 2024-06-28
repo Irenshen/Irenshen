@@ -52,11 +52,12 @@
 9) https://bazarchik.by/
 
 
-⚡ <b>ВËРСТКА сайтов в рамках обучения</b>
+⚡ <b>ВËРСТКА сайтов в рамках обучения и тестов</b>
 1) https://irenshen.github.io/PizzaTime/
 2) https://irenshen.github.io/Japan/
 3) https://irenshen.github.io/TestSite/
 4) https://irenshen.github.io/BSMU/
+5) https://irenshen.github.io/manao/
 
    
 ⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
