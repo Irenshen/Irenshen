@@ -62,19 +62,20 @@
 
    
 ⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
-1) https://itach.by/
-2) https://irenshen.github.io/netera/
-3) https://medmag.bsmu.by/
-4) https://autogroup.by/
-5) https://irenshen.github.io/camping/ 
-6) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
-7) https://vashkosmetolog.by/  (страницы - Главная, Онлайн консультация)
-8) https://flexoil.by/ (страницы - Главная, Контакты)
-9) https://vetdom.by/ (cтраницы - Главная и ZOOHOUSE)
-10) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
-11) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
+1) https://irenshen.github.io/a-100/
+2) https://itach.by/
+3) https://irenshen.github.io/netera/
+4) https://medmag.bsmu.by/
+5) https://autogroup.by/
+6) https://irenshen.github.io/camping/ 
+7) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
+8) https://vashkosmetolog.by/  (страницы - Главная, Онлайн консультация)
+9) https://flexoil.by/ (страницы - Главная, Контакты)
+10) https://vetdom.by/ (cтраницы - Главная и ZOOHOUSE)
+11) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
+12) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
 и др.
-12) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
+13) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
    
 
 
