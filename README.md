@@ -66,7 +66,7 @@
 1) https://irenshen.github.io/a-100/
 2) https://itach.by/
 3) https://irenshen.github.io/netera/
-4) https://medmag.bsmu.by/
+4) https://medmag.bsmu.by/ (https://irenshen.github.io/medmagazin/)
 5) https://autogroup.by/
 6) https://irenshen.github.io/camping/ 
 7) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
