@@ -12,6 +12,7 @@
 - CSS3
 - SCSS
 - Swiper
+- datepicker
 - Flex,Grid
 - Адаптивная вёрстка
 - Семантичкая вёрстка
