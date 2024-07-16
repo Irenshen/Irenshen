@@ -63,6 +63,8 @@
 
    
 ⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
+<!-- Тур -->
+<!-- Печатник -->
 1) https://irenshen.github.io/a-100/
 2) https://itach.by/
 3) https://irenshen.github.io/netera/
