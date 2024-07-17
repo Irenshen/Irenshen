@@ -10,10 +10,10 @@
 - HTML5
 - БЭМ
 - CSS3
+- Flex,Grid
 - SCSS
 - Swiper
 - datepicker
-- Flex,Grid
 - Адаптивная вёрстка
 - Семантичкая вёрстка
 - Кроссбраузерная вёрстка  <!-- https://caniuse.com/,  https://www.browserstack.com/,   http://iloveadaptive.com/ru/--> 
