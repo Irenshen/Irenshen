@@ -9,18 +9,15 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e9628f0ecfb3f625fecd4db60d05db530f001fb630d948d0a2763bb7885edf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a51756572792d626c61636b3f6c6f676f3d6a7175657279267374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/2e9628f0ecfb3f625fecd4db60d05db530f001fb630d948d0a2763bb7885edf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a51756572792d626c61636b3f6c6f676f3d6a7175657279267374796c653d736f6369616c" alt="jQuery" data-canonical-src="https://img.shields.io/badge/-jQuery-black?logo=jquery&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
 - HTML5
 - БЭМ
-- CSS3
-- Flex,Grid
+- CSS3 (Flex,Grid)
 - SCSS
-- Swiper
-- datepicker
+- Javascript ES6+ и jQuery
+- Базовые анимации сss и svg
 - Адаптивная вёрстка
 - Семантичкая вёрстка
 - Кроссбраузерная вёрстка  <!-- https://caniuse.com/,  https://www.browserstack.com/,   http://iloveadaptive.com/ru/--> 
 - Оптимизация скорости загрузки страницы
 - Тестирование и отладка вёрстки
-- Базовые анимации сss и svg
-- Javascript ES6+ и jQuery
 - Базовая насадка вёрстки на Битрикс.
 
 Дополнительно:
