@@ -13,9 +13,7 @@
 - SCSS
 - Javascript ES6+ и jQuery
 - Базовые анимации сss и svg
-- Адаптивная вёрстка
-- Семантичкая вёрстка
-- Кроссбраузерная вёрстка  <!-- https://caniuse.com/,  https://www.browserstack.com/,   http://iloveadaptive.com/ru/--> 
+- Адаптивная, семантическая, кроссбраузерная вёрстка <!-- https://caniuse.com/,  https://www.browserstack.com/,   http://iloveadaptive.com/ru/--> 
 - Оптимизация скорости загрузки страницы
 - Тестирование и отладка вёрстки
 - Базовая насадка вёрстки на Битрикс.
