@@ -62,7 +62,7 @@
 <!-- Тур -->
 <!-- Печатник -->
 1) https://irenshen.github.io/a-100/
-2) <a href="https://itach.by/" target="_balnk">https://itach.by/ </a>
+2) https://itach.by/
 3) https://irenshen.github.io/netera/
 4) https://medmag.bsmu.by/ (https://irenshen.github.io/medmagazin/)
 5) https://autogroup.by/
