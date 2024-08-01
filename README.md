@@ -13,6 +13,7 @@
 - SCSS
 - Javascript ES6+ и jQuery
 - Базовые анимации сss и svg
+- Gulp
 - Адаптивная, семантическая, кроссбраузерная вёрстка <!-- https://caniuse.com/,  https://www.browserstack.com/,   http://iloveadaptive.com/ru/--> 
 - Оптимизация скорости загрузки страницы
 - Тестирование и отладка вёрстки
