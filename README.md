@@ -51,24 +51,24 @@
 
 
 ⚡ <b>ВËРСТКА сайтов в рамках обучения и тестов</b>
-1) https://irenshen.github.io/PizzaTime/
-2) https://irenshen.github.io/Japan/
-3) https://irenshen.github.io/TestSite/
-4) https://irenshen.github.io/BSMU/
-5) https://irenshen.github.io/manao/
+1) https://github.com/Irenshen/PizzaTime/
+2) https://github.com/Irenshen/Japan/
+3) https://github.com/Irenshen/TestSite/
+4) https://github.com/Irenshen/BSMU/
+5) https://github.com/Irenshen/manao/
 
    
-⚡ <b>Коммерческая ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
+⚡ <b>КОММЕРЧЕСКАЯ ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
 <!-- БГМУ мероприятия -->
 <!-- Тур -->
 <!-- Печатник -->
-1) https://irenshen.github.io/a-100/
-2) https://irenshen.github.io/tour/
+1) https://github.com/Irenshen/a-100
+2) https://github.com/Irenshen/tour
 3) https://itach.by/
-4) https://irenshen.github.io/netera/
-5) https://medmag.bsmu.by/ (https://irenshen.github.io/medmagazin/)
+4) https://github.com/Irenshen/netera
+5) https://medmag.bsmu.by/ (форма https://github.com/Irenshen/medmagazin)
 6) https://autogroup.by/
-7) https://irenshen.github.io/camping/ 
+7) https://github.com/Irenshen/camping 
 8) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
 9) https://vashkosmetolog.by/  <!--(страницы - Главная, Онлайн консультация)-->
 10) https://flexoil.by/ <!--(страницы - Главная, Контакты)-->
