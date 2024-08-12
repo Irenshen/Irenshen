@@ -12,7 +12,7 @@
 - CSS3 (Flex,Grid)
 - SCSS
 - Javascript ES6+ и jQuery
-- Базовые анимации сss и svg
+- Анимации @keyframes + AOS-animation
 - Gulp
 - Адаптивная, семантическая, кроссбраузерная вёрстка <!-- https://caniuse.com/,  https://www.browserstack.com/,   http://iloveadaptive.com/ru/--> 
 - Оптимизация скорости загрузки страницы
