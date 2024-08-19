@@ -60,23 +60,23 @@
    
 ⚡ <b>КОММЕРЧЕСКАЯ ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
 <!-- БГМУ мероприятия -->
-<!-- Тур -->
 <!-- Печатник -->
 1) https://github.com/Irenshen/a-100
 2) https://github.com/Irenshen/tour
-3) https://itach.by/
-4) https://github.com/Irenshen/netera
-5) https://medmag.bsmu.by/ (форма https://github.com/Irenshen/medmagazin)
-6) https://autogroup.by/
-7) https://github.com/Irenshen/camping 
-8) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
-9) https://vashkosmetolog.by/  <!--(страницы - Главная, Онлайн консультация)-->
-10) https://flexoil.by/ <!--(страницы - Главная, Контакты)-->
-11) https://vetdom.by/ <!--(cтраницы - Главная и ZOOHOUSE)-->
-12) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
-13) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
+3) https://irenshen.github.io/Carlet/
+4) https://itach.by/
+5) https://github.com/Irenshen/netera
+6) https://medmag.bsmu.by/ (форма https://github.com/Irenshen/medmagazin)
+7) https://autogroup.by/
+8) https://github.com/Irenshen/camping 
+9) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
+10) https://vashkosmetolog.by/  <!--(страницы - Главная, Онлайн консультация)-->
+11) https://flexoil.by/ <!--(страницы - Главная, Контакты)-->
+12) https://vetdom.by/ <!--(cтраницы - Главная и ZOOHOUSE)-->
+13) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
+14) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
 и др.
-14) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
+15) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
    
 
 
