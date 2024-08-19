@@ -63,7 +63,7 @@
 <!-- Печатник -->
 1) https://github.com/Irenshen/a-100
 2) https://github.com/Irenshen/tour
-3) https://irenshen.github.io/Carlet/
+3) https://github.com/Irenshen/Carlet
 4) https://itach.by/
 5) https://github.com/Irenshen/netera
 6) https://medmag.bsmu.by/ (форма https://github.com/Irenshen/medmagazin)
