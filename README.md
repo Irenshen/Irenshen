@@ -37,7 +37,6 @@
  <!-- Валидность вёрстки https://validator.w3.org/ -->
 
 
-
  <!-- ⚡ <b>Коммерческие проекты по АДМИНИТРИРОВАНИЮ сайтов:</b>
 1) http://ditva.by/
 2) https://bellegprom.by/
@@ -48,14 +47,6 @@
 7) https://www.bsmu.by/
 8) https://ph2.by/
 9) https://bazarchik.by/  -->
-
-
-⚡ <b>ВËРСТКА сайтов в рамках обучения и тестов</b>
-1) https://github.com/Irenshen/PizzaTime/
-2) https://github.com/Irenshen/Japan/
-3) https://github.com/Irenshen/TestSite/
-4) https://github.com/Irenshen/BSMU/
-5) https://github.com/Irenshen/manao/
 
    
 ⚡ <b>КОММЕРЧЕСКАЯ ВËРСТКА сайтов (некоторые сайты в паре с другим верстальщиком)</b>
@@ -77,8 +68,14 @@
 14) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
 и др.
 15) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
-   
 
+   
+⚡ <b>ВËРСТКА сайтов в рамках обучения и тестов</b>
+1) https://github.com/Irenshen/PizzaTime/
+2) https://github.com/Irenshen/Japan/
+3) https://github.com/Irenshen/TestSite/
+4) https://github.com/Irenshen/BSMU/
+5) https://github.com/Irenshen/manao/
 
 
 
