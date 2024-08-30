@@ -57,7 +57,7 @@
 3) https://github.com/Irenshen/Carlet
 4) https://itach.by/
 5) https://github.com/Irenshen/netera
-6) https://medmag.bsmu.by/ (форма https://github.com/Irenshen/medmagazin)
+6) https://medmag.bsmu.by/ <!--(форма https://github.com/Irenshen/medmagazin)-->
 7) https://autogroup.by/
 8) https://github.com/Irenshen/camping 
 9) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
