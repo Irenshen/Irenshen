@@ -69,6 +69,8 @@
 и др.
 15) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
 
+16) <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
+
    
 ⚡ <b>ВËРСТКА сайтов в рамках обучения и тестов</b>
 1) https://github.com/Irenshen/PizzaTime/
