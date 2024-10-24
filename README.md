@@ -51,7 +51,7 @@ Additional information:
 9) https://bazarchik.by/  -->
 
    
-⚡ <b>COMMERCIAL website layout (some websites paired with another html-coder)</b>
+⚡ <b>Layout of COMMERCIAL sites (some sites are made in pair with another html-coder)</b>
 <!-- БГМУ мероприятия -->
 <!-- Печатник -->
 1) https://github.com/Irenshen/a-100
