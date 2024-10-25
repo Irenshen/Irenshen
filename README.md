@@ -80,6 +80,7 @@ Additional information:
 3) https://github.com/Irenshen/TestSite/
 4) https://github.com/Irenshen/BSMU/
 5) https://github.com/Irenshen/manao/
+6) https://irenshen.github.io/Loremipsum/
 
 
 
