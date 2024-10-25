@@ -16,10 +16,10 @@
 - Animations @keyframes + AOS-animation
 - Gulp
 - Adaptive, semantic, cross-browser layout 
-<!-- https://caniuse.com/, https://www.browserstack.com/, http://iloveadaptive.com/ru/--> 
 - Page load speed optimisation
 - Testing and debugging the layout
 - Basic layout on Bitrix, Wordpress
+ <!-- https://caniuse.com/, https://www.browserstack.com/, http://iloveadaptive.com/ru/--> 
 
 Additional information:
 - Bitrix. Administration / configuration of sites (creating pages and output of components + their configuration, editing styles, component template, filling sites with content, filling product cards, setting properties, output filters, customising the shopping cart). 
