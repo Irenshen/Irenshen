@@ -1,4 +1,4 @@
-### Hi, my name is Irina. I do website layout) 👋
+### Hi, my name is Irena. I do website layout) 👋
 
 📫 Contact me: +375298515132, gavrirena@yandex.ru, telegram @Irenshen.
   
