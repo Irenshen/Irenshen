@@ -68,7 +68,7 @@ Additional information:
 12) https://vetdom.by/ <!--(pages - Main, и ZOOHOUSE)-->
 13) https://www.bsmu.by/ (some pages + Basic layout on Bitrix)
 14) https://uprav.ru/ (page redesign	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
-и др.
+et al.
 15) https://bnb.by/ 
 
 <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
