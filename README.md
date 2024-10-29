@@ -18,7 +18,7 @@
 - Adaptive, semantic, cross-browser layout 
 - Page load speed optimisation
 - Testing and debugging the layout
-- Basic layout on Bitrix, Wordpress
+- Basic layout on Bitrix, Wordpress (ACF-Pro и Сontacts Form, Custom Post Types)
  <!-- https://caniuse.com/, https://www.browserstack.com/, http://iloveadaptive.com/ru/--> 
 
 Additional information:
@@ -59,17 +59,17 @@ Additional information:
 3) https://github.com/Irenshen/Carlet
 4) https://itach.by/
 5) https://github.com/Irenshen/netera
-6) https://medmag.bsmu.by/ <!--(форма https://github.com/Irenshen/medmagazin)-->
+6) https://medmag.bsmu.by/ <!--(form https://github.com/Irenshen/medmagazin)-->
 7) https://autogroup.by/
 8) https://github.com/Irenshen/camping 
-9) https://rep.maximus-kids.ru/ ( блоки - Функционал платформы  и Содержание бесплатного вебинара)
-10) https://vashkosmetolog.by/  <!--(страницы - Главная, Онлайн консультация)-->
-11) https://flexoil.by/ <!--(страницы - Главная, Контакты)-->
-12) https://vetdom.by/ <!--(cтраницы - Главная и ZOOHOUSE)-->
-13) https://www.bsmu.by/ (отдельные страницы + насадка вёрстки на crm-bitrix - основа. Уточню всё при потребности))
-14) https://uprav.ru/ (редизайн  страниц	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
+9) https://rep.maximus-kids.ru/ ( blocks - "Функционал платформы"  and "Содержание бесплатного вебинара")
+10) https://vashkosmetolog.by/  <!--(pages - Main, Online consultation)-->
+11) https://flexoil.by/ <!--(pages - Main, Contacts)-->
+12) https://vetdom.by/ <!--(pages - Main, и ZOOHOUSE)-->
+13) https://www.bsmu.by/ (some pages + Basic layout on Bitrix)
+14) https://uprav.ru/ (page redesign	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
 и др.
-15) https://bnb.by/ (Разделы: Частным лицам --> Банковские карточки, Кредитование, Вклады)
+15) https://bnb.by/ 
 
 <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
 
