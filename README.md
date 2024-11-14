@@ -53,7 +53,7 @@ Additional information:
    
 ⚡ <b>Layout of COMMERCIAL sites (some sites are made in pair with another html-coder)</b>
 <!-- БГМУ мероприятия -->
-<!-- Печатник -->
+<!-- Печатник, https://autobroker.kz/, https://carlet.lt/  -->
 1) https://github.com/Irenshen/a-100
 2) https://github.com/Irenshen/tour
 3) https://github.com/Irenshen/Carlet
