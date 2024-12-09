@@ -12,7 +12,7 @@
 - BEM
 - CSS3 (Flex,Grid)
 - SCSS
-- Javascript ES6+ and jQuery
+- Javascript ES6+ and jQuery (supporting legacy code)
 - Animations @keyframes + AOS-animation
 - Gulp
 - Adaptive, semantic, cross-browser layout 
