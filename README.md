@@ -15,6 +15,8 @@
 - Javascript ES6+ and jQuery (supporting legacy code)
 - Animations @keyframes + AOS-animation
 - Gulp
+- Git, Gitlab
+- API
 - Adaptive, semantic, cross-browser layout 
 - Page load speed optimisation
 - Testing and debugging the layout
