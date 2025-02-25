@@ -16,7 +16,7 @@
 - Animations @keyframes + AOS-animation
 - Gulp
 - Git, Gitlab
-- API
+- API, postman
 - Adaptive, semantic, cross-browser layout 
 - Page load speed optimisation
 - Testing and debugging the layout
