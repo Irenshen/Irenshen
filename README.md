@@ -28,7 +28,6 @@ Additional information:
 - Wordpress. Administration of sites ( most of the work was related to the creation of html-structure for already ready content, there were also tasks on customisation through the site admin).
 - Figma; Photoshop ( resizing/proportioning, basic colour correction, working with layers etc.); 
 - advanced googling skills)
-- Google docs
 - English B1
 
   
