@@ -10,9 +10,8 @@
 
 - HTML5
 - BEM
-- CSS3 (Flex,Grid)
-- SCSS
-- Javascript ES6+ and jQuery (supporting legacy code)
+- CSS3 (Flex,Grid), SCSS
+- Javascript and jQuery (supporting legacy code)
 - Animations @keyframes + AOS-animation
 - Gulp
 - Git, Gitlab
