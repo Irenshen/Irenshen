@@ -82,7 +82,7 @@ et al.
 6) https://irenshen.github.io/Loremipsum/
 
 
-
+List of commercial projects on request https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?tab=t.0
 
 <!--
 
