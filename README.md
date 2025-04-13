@@ -53,22 +53,22 @@ Additional information:
 ⚡ <b>Layout of COMMERCIAL sites (some sites are made in pair with another html-coder)</b>
 <!-- БГМУ мероприятия -->
 <!-- Печатник, https://autobroker.kz/, https://carlet.lt/  -->
-1) https://github.com/Irenshen/a-100
-2) https://github.com/Irenshen/tour
-3) https://github.com/Irenshen/Carlet
-4) https://itach.by/
-5) https://github.com/Irenshen/netera
-6) https://medmag.bsmu.by/ <!--(form https://github.com/Irenshen/medmagazin)-->
-7) https://autogroup.by/
-8) https://github.com/Irenshen/camping 
-9) https://rep.maximus-kids.ru/ ( blocks - "Функционал платформы"  and "Содержание бесплатного вебинара")
-10) https://vashkosmetolog.by/  <!--(pages - Main, Online consultation)-->
-11) https://flexoil.by/ <!--(pages - Main, Contacts)-->
-12) https://vetdom.by/ <!--(pages - Main, и ZOOHOUSE)-->
-13) https://www.bsmu.by/ (some pages + Basic layout on Bitrix)
-14) https://uprav.ru/ (page redesign	https://uprav.ru/priviledge/, https://uprav.ru/abonement/ )
+1) https://autobroker.kz/
+2) https://carlet.lt/
+3) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100
+4) https://github.com/Irenshen/tour
+5) https://github.com/Irenshen/Carlet
+6) https://itach.by/
+7) https://github.com/Irenshen/netera
+9) https://medmag.bsmu.by/ <!--(form https://github.com/Irenshen/medmagazin)-->
+10) https://autogroup.by/
+11) https://github.com/Irenshen/camping
+12) https://vashkosmetolog.by/  <!--(pages - Main, Online consultation)-->
+13) https://flexoil.by/ <!--(pages - Main, Contacts)-->
+14) https://vetdom.by/ <!--(pages - Main, и ZOOHOUSE)-->
+15) https://www.bsmu.by/ (some pages + Basic layout on Bitrix)
 et al.
-15) https://bnb.by/ 
+16) https://bnb.by/ (some pages)
 
 <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
 
