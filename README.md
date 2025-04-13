@@ -70,9 +70,11 @@ Additional information:
 et al.
 16) https://bnb.by/ (some pages)
 
+<b>List of all commercial projects on request https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?tab=t.0 </b>
+
 <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
 
-   
+
 ⚡ <b>Website layout (self-study and testing)</b>
 1) https://github.com/Irenshen/PizzaTime/
 2) https://github.com/Irenshen/Japan/
@@ -82,7 +84,7 @@ et al.
 6) https://irenshen.github.io/Loremipsum/
 
 
-List of all commercial projects on request https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?tab=t.0
+
 
 <!--
 
