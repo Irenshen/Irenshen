@@ -55,7 +55,7 @@ Additional information:
 <!-- Печатник, https://autobroker.kz/, https://carlet.lt/  -->
 1) https://autobroker.kz/
 2) https://carlet.lt/
-3) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100, https://github.com/Irenshen/a-100-group, https://github.com/Irenshen/a-100-fuel,https://github.com/Irenshen/magic-a-100
+3) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100, https://github.com/Irenshen/a-100-group, https://github.com/Irenshen/a-100-fuel, https://github.com/Irenshen/magic-a-100
 4) страницы личного кабинета https://github.com/Irenshen/delivery
 5) https://github.com/Irenshen/tour
 6) https://github.com/Irenshen/Carlet
