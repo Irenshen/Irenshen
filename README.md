@@ -55,11 +55,12 @@ Additional information:
 <!-- Печатник, https://autobroker.kz/, https://carlet.lt/  -->
 1) https://autobroker.kz/
 2) https://carlet.lt/
-3) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100
-4) https://github.com/Irenshen/tour
-5) https://github.com/Irenshen/Carlet
-6) https://itach.by/
-7) https://github.com/Irenshen/netera
+3) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100, https://github.com/Irenshen/a-100-group, https://github.com/Irenshen/a-100-fuel,https://github.com/Irenshen/magic-a-100
+4) страницы личного кабинета https://github.com/Irenshen/delivery
+5) https://github.com/Irenshen/tour
+6) https://github.com/Irenshen/Carlet
+7) https://itach.by/
+8) https://github.com/Irenshen/netera
 9) https://medmag.bsmu.by/ <!--(form https://github.com/Irenshen/medmagazin)-->
 10) https://autogroup.by/
 11) https://github.com/Irenshen/camping
@@ -82,6 +83,7 @@ et al.
 4) https://github.com/Irenshen/BSMU/
 5) https://github.com/Irenshen/manao/
 6) https://irenshen.github.io/Loremipsum/
+7) https://github.com/Irenshen/form
 
 
 
