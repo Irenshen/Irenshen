@@ -25,7 +25,7 @@
 Additional information:
 - Bitrix. Administration / configuration of sites (creating pages and output of components + their configuration, editing styles, component template, filling sites with content, filling product cards, setting properties, output filters, customising the shopping cart). 
 - Wordpress. Administration of sites ( most of the work was related to the creation of html-structure for already ready content, there were also tasks on customisation through the site admin).
-- Figma; Photoshop ( resizing/proportioning, basic colour correction, working with layers etc.); 
+- Figma; Photoshop 
 - English B1
 
   
