@@ -54,22 +54,21 @@ Additional information:
 <!-- БГМУ мероприятия -->
 <!-- Печатник, https://autobroker.kz/, https://carlet.lt/  -->
 1) https://autobroker.kz/
-2) https://carlet.lt/
+2) https://carlet.lt/, https://github.com/Irenshen/Carlet
 3) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100, https://github.com/Irenshen/a-100-group, https://github.com/Irenshen/a-100-fuel, https://github.com/Irenshen/magic-a-100
 4) страницы личного кабинета https://github.com/Irenshen/delivery
 5) https://github.com/Irenshen/tour
-6) https://github.com/Irenshen/Carlet
-7) https://itach.by/
-8) https://github.com/Irenshen/netera
-9) https://medmag.bsmu.by/ <!--(form https://github.com/Irenshen/medmagazin)-->
-10) https://autogroup.by/
-11) https://github.com/Irenshen/camping
-12) https://vashkosmetolog.by/  <!--(pages - Main, Online consultation)-->
-13) https://flexoil.by/ <!--(pages - Main, Contacts)-->
-14) https://vetdom.by/ <!--(pages - Main, и ZOOHOUSE)-->
-15) https://www.bsmu.by/ (some pages + Basic layout on Bitrix)
+6) https://itach.by/
+7) https://github.com/Irenshen/netera
+8) https://medmag.bsmu.by/ <!--(form https://github.com/Irenshen/medmagazin)-->
+9) https://autogroup.by/
+10) https://github.com/Irenshen/camping
+11) https://vashkosmetolog.by/  <!--(pages - Main, Online consultation)-->
+12) https://flexoil.by/ <!--(pages - Main, Contacts)-->
+13) https://vetdom.by/ <!--(pages - Main, и ZOOHOUSE)-->
+14) https://www.bsmu.by/ (some pages + Basic layout on Bitrix)
 et al.
-16) https://bnb.by/ (some pages)
+15) https://bnb.by/ (some pages)
 
 <b>List of all commercial projects on request https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?tab=t.0 </b>
 
