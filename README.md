@@ -52,7 +52,7 @@ Additional information:
    
 ⚡ <b>Layout of COMMERCIAL sites (some sites are made in pair with another html-coder)</b>
 <!-- БГМУ мероприятия -->
-<!-- Печатник, итач мини-сайты-->
+<!-- Печатник, итач мини-сайты , по мебели ( личный кабинет)-->
 1) https://autobroker.kz/
 2) https://carlet.lt/, https://github.com/Irenshen/Carlet
 3) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100, https://github.com/Irenshen/a-100-group, https://github.com/Irenshen/a-100-fuel, https://github.com/Irenshen/magic-a-100
