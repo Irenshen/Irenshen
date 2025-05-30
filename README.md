@@ -13,7 +13,7 @@
 - CSS3 (Flex,Grid), SCSS
 - Javascript and jQuery (supporting legacy code)
 - Animations @keyframes + AOS-animation
-- Gulp
+- Gulp, webpack
 - Git, Gitlab
 - API, postman
 - Adaptive, semantic, cross-browser layout 
