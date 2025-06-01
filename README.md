@@ -19,7 +19,7 @@
 - Adaptive, semantic, cross-browser layout 
 - Page load speed optimisation
 - Testing and debugging the layout
-- Basic layout on Bitrix, Wordpress (ACF-Pro и Сontacts Form, Custom Post Types)
+- Basic layout on Bitrix, Wordpress (ACF-Pro и Сontacts Form, Custom Post Types, et.al)
  <!-- https://caniuse.com/, https://www.browserstack.com/, http://iloveadaptive.com/ru/--> 
 
 Additional information:
