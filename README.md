@@ -10,7 +10,6 @@ Phone/WhatsApp: +375 29 851 51 32<br>
 🔧  <b>HARD SKILLS:</b>
 
 - <b>HTML5</b>,<b> CSS3</b> (Flexbox, Grid), <b>SCSS, <b>BEM</b>
-- <b>HTML5</b>, <b>CSS3</b> (Flexbox, Grid), <b>SCSS</b>, <b>BEM</b>
 - <b>JavaScript</b>, <b>jQuery</b> (including legacy code support) </b>
 - Responsive, semantic, and cross-browser layout
 - Animations: <code>@keyframes</code>, AOS.js
