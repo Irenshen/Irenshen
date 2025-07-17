@@ -71,7 +71,8 @@ Phone/WhatsApp: +375 29 851 51 32<br>
 et al.
 15) https://bnb.by/ (some pages)
 
-<b>List of all commercial projects on request https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?tab=t.0 </b>
+📄 <b>Full commercial project list:</b>
+<a href="https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?usp=sharing" target="_blank">Google Docs – Portfolio (on request)</a>
 
 <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
 
