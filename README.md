@@ -1,6 +1,6 @@
 ### Hi, I'm Irena – a front-end developer specializing in responsive, cross-browser layout and WordPress/Bitrix site administration 👋
 
-📫 <b>Contact:</b> <br>
+📫 <b>Contact:</b> 
 Email: gavrirena@yandex.ru <br>
 Telegram: <a href="https://t.me/Irenshen">@Irenshen</a><br>
 Phone/WhatsApp: +375 29 851 51 32<br>
@@ -8,7 +8,6 @@ Location: Belarus
 
   
 🔧 <b>Hard Skills</b>
-
 - <b>HTML5</b>,<b> CSS3</b> (Flexbox, Grid), <b>SCSS, <b>BEM</b>
 - <b>JavaScript</b>, <b>jQuery</b> (including legacy code support) </b>
 - Responsive, semantic, and cross-browser layout
@@ -20,6 +19,7 @@ Location: Belarus
 - Tools: <b>Gulp</b>, <b>Webpack</b>, <b>Git</b>, <b>GitLab</b>, <b>Postman</b>
 - UI Tools: <b>Figma</b>, <b>Photoshop</b>
  <!-- https://caniuse.com/, https://www.browserstack.com/, http://iloveadaptive.com/ru/--> 
+ 
 
 🌐 <b>Experience with CMS</b>
 - <b>WordPress</b>: Full site administration and support, building websites from scratch, custom HTML structure integration, block customization, plugin setup, and content management via the admin panel.
