@@ -11,7 +11,7 @@ Location: Belarus
 - <b>HTML5</b>,<b> CSS3</b> (Flexbox, Grid), <b>SCSS, <b>BEM</b>
 - <b>JavaScript</b>, <b>jQuery</b> (including legacy code support) </b>
 - Responsive, semantic, and cross-browser layout
-- Animations: <code>@keyframes</code>, AOS
+- Animations: <code>@keyframes</code>, AOS, SVG
 - Performance optimization (page load speed)
 - <b>WordPress</b> (ACF Pro, Contact Form 7, Custom Post Types and et.)
 - <b>Bitrix</b> (template editing, component customization, content/product card management)
