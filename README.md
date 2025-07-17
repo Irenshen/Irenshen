@@ -4,7 +4,7 @@
 Email: gavrirena@yandex.ru <br>
 Telegram: <a href="https://t.me/Irenshen">@Irenshen</a><br>
 Phone/WhatsApp: +375 29 851 51 32<br>
-<b>Location:</b> Belarus 
+Location: Belarus 
 
   
 🔧  <b>HARD SKILLS:</b>
