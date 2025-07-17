@@ -7,7 +7,7 @@ Phone/WhatsApp: +375 29 851 51 32<br>
 Location: Belarus 
 
   
-🔧  <b>HARD SKILLS:</b>
+🔧 <b>Hard Skills</b>
 
 - <b>HTML5</b>,<b> CSS3</b> (Flexbox, Grid), <b>SCSS, <b>BEM</b>
 - <b>JavaScript</b>, <b>jQuery</b> (including legacy code support) </b>
