@@ -22,7 +22,7 @@ Location: Belarus
 
 🌐 <b>Experience with CMS</b>
 - <b>WordPress</b>: Full site administration and support, building websites from scratch, custom HTML structure integration, block customization, plugin setup, and content management via the admin panel.
-- <b>Bitrix</b>: Site administration, component setup and configuration, page creation, style and template editing, content filling, product catalog customization, filters, and cart logic.
+- <b>Bitrix</b>: Site administration, component setup and configuration, page creation, style and template editing, content filling.
 
 
 💬 <b>Languages</b>
