@@ -51,7 +51,8 @@ Phone/WhatsApp: +375 29 851 51 32<br>
 9) https://bazarchik.by/  -->
 
    
-⚡ <b>Layout of COMMERCIAL sites (some sites are made in pair with another html-coder)</b>
+⚡ <b>Commercial Website Layout (HTML/CSS/JS)</b><br>
+Developed responsive, cross-browser layouts for client websites. Some projects were built independently, others in collaboration with another front-end developer.
 <!-- БГМУ мероприятия -->
 <!-- Печатник, итач мини-сайты , по мебели ( личный кабинет), Внедрение и настройка Битрикс24 под ваши - https://dev.itach.by/landing/ -->
 1) https://autobroker.kz/
@@ -71,13 +72,14 @@ Phone/WhatsApp: +375 29 851 51 32<br>
 et al.
 15) https://bnb.by/ (some pages)
 
-📄 <b>Full commercial project list:</b>
+📄 <b>Full commercial project list:</b> <br>
 <a href="https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?usp=sharing" target="_blank">Google Docs – Portfolio (on request)</a>
 
 <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
 
 
-⚡ <b>Website layout (self-study and testing)</b>
+🧪 <b>Personal Projects / Practice Layouts</b> <br>
+Self-study projects and test layouts to practice animation, responsiveness, and CMS structure.
 1) https://github.com/Irenshen/PizzaTime/
 2) https://github.com/Irenshen/Japan/
 3) https://github.com/Irenshen/TestSite/
