@@ -1,32 +1,36 @@
-### Hi, my name is Irena. I do website layout) 👋
+### Hi, I'm Irena – a front-end developer specializing in responsive, cross-browser layout and WordPress/Bitrix site administration. ) 👋
 
-📫 Contact me: +375298515132, gavrirena@yandex.ru, telegram @Irenshen.
+📫 <b>Contact:</b>
+Email: gavrirena@yandex.ru
+Telegram: @Irenshen
+Phone: +375 29 851 51 32
   
-🌱 <b>HARD SKILLS:</b>
+🔧  <b>HARD SKILLS:</b>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20a0679d747ef7fb4819e7f651ece9a9948467c221450fefe548462d17ef3b39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f6c6f676f3d6a617661736372697074267374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/20a0679d747ef7fb4819e7f651ece9a9948467c221450fefe548462d17ef3b39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f6c6f676f3d6a617661736372697074267374796c653d736f6369616c" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6052968e76e425dd3fb34887027db835bf33dce7ab76bab7577793696bdfd202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f6c6f676f3d68746d6c35267374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/6052968e76e425dd3fb34887027db835bf33dce7ab76bab7577793696bdfd202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f6c6f676f3d68746d6c35267374796c653d736f6369616c" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-black?logo=html5&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1da7c508d48f659b84d3bbe1c102501dd5777d8e92cf2916cf405c8112e5fce0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d626c61636b3f6c6f676f3d63737333267374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/1da7c508d48f659b84d3bbe1c102501dd5777d8e92cf2916cf405c8112e5fce0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d626c61636b3f6c6f676f3d63737333267374796c653d736f6369616c" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-black?logo=css3&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e9628f0ecfb3f625fecd4db60d05db530f001fb630d948d0a2763bb7885edf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a51756572792d626c61636b3f6c6f676f3d6a7175657279267374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/2e9628f0ecfb3f625fecd4db60d05db530f001fb630d948d0a2763bb7885edf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a51756572792d626c61636b3f6c6f676f3d6a7175657279267374796c653d736f6369616c" alt="jQuery" data-canonical-src="https://img.shields.io/badge/-jQuery-black?logo=jquery&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
 
-- HTML5
-- BEM
-- CSS3 (Flex,Grid), SCSS
-- Javascript and jQuery (supporting legacy code)
-- Animations @keyframes + AOS-animation
-- Gulp, webpack
-- Git, Gitlab
-- API, postman
-- Adaptive, semantic, cross-browser layout 
-- Page load speed optimisation
-- Testing and debugging the layout
-- Basic layout on Bitrix, Wordpress (ACF-Pro и Сontacts Form, Custom Post Types, et.al)
+- <b>HTML5</b>,<b> CSS3</b> (Flexbox, Grid), <b>SCSS, <b>BEM</b>
+- <b>HTML5</b>, <b>CSS3</b> (Flexbox, Grid), <b>SCSS</b>, <b>BEM</b>
+- <b>JavaScript</b>, <b>jQuery</b> (including legacy code support)
+- Responsive, semantic, and cross-browser layout
+- Animations: <code>@keyframes</code>, AOS.js
+- Performance optimization (page load speed)
+- Testing and debugging front-end code
+- <b>WordPress</b> (ACF Pro, Contact Form 7, Custom Post Types and et.)
+- <b>Bitrix</b> (template editing, component customization, content/product card management)
+- Tools: <b>Gulp</b>, <b>Webpack</b>, <b>Git</b>, <b>GitLab</b>, <b>Postman</b>
+- UI Tools: <b>Figma</b>, <b>Photoshop</b>
  <!-- https://caniuse.com/, https://www.browserstack.com/, http://iloveadaptive.com/ru/--> 
 
-Additional information:
-- Bitrix. Administration / configuration of sites (creating pages and output of components + their configuration, editing styles, component template, filling sites with content, filling product cards, setting properties, output filters, customising the shopping cart). 
-- Wordpress. Administration of sites ( most of the work was related to the creation of html-structure for already ready content, there were also tasks on customisation through the site admin).
-- Figma; Photoshop 
-- English B1
+🌐 <b>Experience with CMS</b>
+- <b>WordPress</b>: Mostly front-end integration (HTML structure implementation), occasional customization via the admin panel. 
+- <b>Bitrix</b>: Site administration, component setup and configuration, page creation, style and template editing, content filling, product catalog customization, filters, and cart logic.
+
+
+💬 <b>Languages</b>
+- English – B1 (Intermediate)
 
   
  <!-- https://pagespeed.web.dev/ Google PageSpeed Insights (минимизация файлов, оптимизация изображений https://imagecompressor.com/ru/ , wolf-шрифт, объелинение стилей и скриптов)-->
