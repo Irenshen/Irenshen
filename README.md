@@ -13,7 +13,7 @@ Phone: +375 29 851 51 32
 
 - <b>HTML5</b>,<b> CSS3</b> (Flexbox, Grid), <b>SCSS, <b>BEM</b>
 - <b>HTML5</b>, <b>CSS3</b> (Flexbox, Grid), <b>SCSS</b>, <b>BEM</b>
-- <b>JavaScript</b>, <b>jQuery</b> (including legacy code support)
+- <b>JavaScript</b>, <b>jQuery</b> (including legacy code support) </b>
 - Responsive, semantic, and cross-browser layout
 - Animations: <code>@keyframes</code>, AOS.js
 - Performance optimization (page load speed)
@@ -25,7 +25,7 @@ Phone: +375 29 851 51 32
  <!-- https://caniuse.com/, https://www.browserstack.com/, http://iloveadaptive.com/ru/--> 
 
 🌐 <b>Experience with CMS</b>
-- <b>WordPress</b>: Mostly front-end integration (HTML structure implementation), occasional customization via the admin panel. 
+- <b>WordPress</b>: Full site administration and support, building websites from scratch, custom HTML structure integration, block customization, plugin setup, and content management via the admin panel.
 - <b>Bitrix</b>: Site administration, component setup and configuration, page creation, style and template editing, content filling, product catalog customization, filters, and cart logic.
 
 
