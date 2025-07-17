@@ -1,6 +1,6 @@
 ### Hi, I'm Irena – a front-end developer specializing in responsive, cross-browser layout and WordPress/Bitrix site administration 👋
 
-📫 <b>Contact:</b> 
+📫 <b>Contact:</b><br>
 Email: gavrirena@yandex.ru <br>
 Telegram: <a href="https://t.me/Irenshen">@Irenshen</a><br>
 Phone/WhatsApp: +375 29 851 51 32<br>
