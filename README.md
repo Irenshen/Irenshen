@@ -1,9 +1,11 @@
 ### Hi, I'm Irena – a front-end developer specializing in responsive, cross-browser layout and WordPress/Bitrix site administration. ) 👋
 
-📫 <b>Contact:</b>
-Email: gavrirena@yandex.ru
-Telegram: @Irenshen
-Phone: +375 29 851 51 32
+📫 <b>Contact:</b> <br>
+Email: gavrirena@yandex.ru <br>
+Telegram: <a href="https://t.me/Irenshen">@Irenshen</a><br>
+Phone/WhatsApp: +375 29 851 51 32<br>
+<b>Location:</b> Belarus 
+
   
 🔧  <b>HARD SKILLS:</b>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20a0679d747ef7fb4819e7f651ece9a9948467c221450fefe548462d17ef3b39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f6c6f676f3d6a617661736372697074267374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/20a0679d747ef7fb4819e7f651ece9a9948467c221450fefe548462d17ef3b39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f6c6f676f3d6a617661736372697074267374796c653d736f6369616c" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
