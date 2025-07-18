@@ -1,4 +1,4 @@
-### Hi, I'm Irena – a front-end developer specializing in responsive, cross-browser layout and WordPress/Bitrix site administration 👋
+### Hi, I'm Irena – a front-end developer specializing in responsive, cross-browser layout and WordPress site administration 👋
 
 📫 <b>Contact:</b><br>
 Email: gavrirena@yandex.ru <br>
