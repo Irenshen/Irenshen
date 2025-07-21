@@ -13,7 +13,7 @@ Location: Belarus
 - Responsive, semantic, and cross-browser layout
 - Animations: <code>@keyframes</code>, AOS, SVG
 - Performance optimization (page load speed)
-- <b>WordPress</b> (ACF Pro, Contact Form 7, Custom Post Types and et.)
+- <b>WordPress</b> (ACF Pro, Contact Form 7, Custom Post Types, Yoast, WP Rocket and etс.)
 - <b>Bitrix</b> (template editing, component customization, content/product card management)
 - Tools: <b>Gulp</b>, <b>Webpack</b>, <b>Git</b>, <b>GitLab</b>, <b>Postman</b>
 - UI Tools: <b>Figma</b>, <b>Photoshop</b>
