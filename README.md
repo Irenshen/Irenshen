@@ -47,7 +47,7 @@ Location: Belarus
 
 ##⚡ <b>Featured Projects</b> <br>
 - [Selfielab](https://github.com/Irenshen/selfielab) – responsive website, bundling with **Gulp + Webpack**
-- [A-100 Demo](https://irenshen.github.io/a-100/) – semantic, responsive layout
+- [A-100 Demo](https://irenshen.github.io/a-100/) – semantic, responsive layout + vanila JS
 - [Magic A-100](https://github.com/Irenshen/magic-a-100) – interactive animations
 - [Carlet](https://carlet.lt/) · [repo](https://github.com/Irenshen/Carlet) – marketplace with animated effects
 - [Itach About Page](https://itach.by/about/) – custom animated section
