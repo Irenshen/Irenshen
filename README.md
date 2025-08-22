@@ -57,7 +57,7 @@
 11) https://theatlasdom.com/
 12) https://whitehousehealthcare.com/
 13) https://oakwoodresidence.com/
-14) theregencyatglencove.com
+14) https://theregencyatglencove.com/
 15) and etc.
 
 ## 💬 Languages
