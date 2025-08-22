@@ -27,7 +27,16 @@
 ## 🌐 CMS Experience
 - **WordPress:** Full site administration and support, building websites from scratch, custom HTML integration, block customization, plugin setup, and content management.  
 - **Bitrix:** Site administration, component setup/configuration, template editing, content filling.  
-
+ <!-- ⚡ <b>Website ADMINISTRATION projects:</b>
+1) http://ditva.by/
+2) https://bellegprom.by/
+3) https://online.maxi-english.by/
+4) https://torgynitri.by/
+5) https://nlc.by/
+6) https://itach-soft.com/
+7) https://www.bsmu.by/
+8) https://ph2.by/
+9) https://bazarchik.by/  -->
 ---
 
 ## 💬 Languages
@@ -97,4 +106,33 @@ Self-study projects and test layouts:
 4. https://github.com/Irenshen/BSMU/  
 5. https://github.com/Irenshen/manao/  
 6. https://irenshen.github.io/Loremipsum/  
-7. https://github.com/Irenshen/form  
+7. https://github.com/Irenshen/form
+ <!-- Печатник !!!  -->
+   
+
+
+
+
+
+<!--
+
+### Hi there 👋
+**Irenshen/Irenshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+😄 <b>SOFT SKILLS:</b>
+- способность быстро обучаться
+- грамотность
+- скурпулёзность
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
