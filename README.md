@@ -65,7 +65,7 @@
 
 ---
 
-## ⚡⚡⚡⚡⚡ Featured Projects ⚡⚡⚡⚡⚡
+## ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡  Featured Projects ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ 
 ### 🛠 Gulp / Webpack
 - [Selfielab](https://github.com/Irenshen/selfielab) – responsive website, bundling with **Gulp + Webpack**
 
