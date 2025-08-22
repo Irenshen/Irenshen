@@ -81,7 +81,7 @@ et al.
 
 
 🧪 <b>Personal Projects / Practice Layouts</b> <br>
-Self-study projects and test layouts to practice animation, responsiveness, and CMS structure.
+Self-study projects and test layouts.
 1) https://github.com/Irenshen/PizzaTime/
 2) https://github.com/Irenshen/Japan/
 3) https://github.com/Irenshen/TestSite/
