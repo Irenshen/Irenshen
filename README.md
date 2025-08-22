@@ -30,15 +30,6 @@ Location: Belarus
   <br>
   <br>
 
-  
- <!-- https://pagespeed.web.dev/ Google PageSpeed Insights (минимизация файлов, оптимизация изображений https://imagecompressor.com/ru/ , wolf-шрифт, объелинение стилей и скриптов)-->
- <!--  loading="lazy"
- <img src="picture.jpg" loading="lazy">
-
-<iframe src="supplementary.html" loading="lazy"></iframe>
--->
- <!-- Валидность вёрстки https://validator.w3.org/ -->
-
 
  <!-- ⚡ <b>Website ADMINISTRATION projects:</b>
 1) http://ditva.by/
@@ -55,11 +46,11 @@ Location: Belarus
 ⚡ <b>Commercial Website Layout (HTML/CSS/JS)</b><br>
 
 ## ⚡ Featured Projects
-*** Gulp/Webpack build systems:
+*** Gulp/Webpack build systems:<br>
 1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling )
-*** HTML/CSS/JS (vanilla)
+*** HTML/CSS/JS (vanilla)<br>
 2) https://irenshen.github.io/a-100/
-*** Animations
+*** Animations<br>
 3) https://github.com/Irenshen/magic-a-100
 4) https://carlet.lt/, https://github.com/Irenshen/Carlet
 5) https://itach.by/about/
