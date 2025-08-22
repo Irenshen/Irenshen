@@ -53,26 +53,46 @@ Location: Belarus
 
    
 ⚡ <b>Commercial Website Layout (HTML/CSS/JS)</b><br>
-Developed responsive, cross-browser layouts for client websites. Some projects were built independently, others in collaboration with another front-end developer.
-<!-- БГМУ мероприятия -->
-<!-- Печатник, итач мини-сайты , по мебели ( личный кабинет), Внедрение и настройка Битрикс24 под ваши - https://dev.itach.by/landing/ -->
+
+## ⚡ Featured Projects
+*** Gulp/Webpack build systems:
 1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling )
-2) https://autobroker.kz/
-3) https://carlet.lt/, https://github.com/Irenshen/Carlet
-4) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100, https://github.com/Irenshen/a-100-group, https://github.com/Irenshen/a-100-fuel, https://github.com/Irenshen/magic-a-100
-5) pages of account: https://github.com/Irenshen/delivery
-6) https://github.com/Irenshen/tour
-7) https://itach.by/
-8) https://github.com/Irenshen/netera
-9) https://medmag.bsmu.by/ <!--(form https://github.com/Irenshen/medmagazin)-->
-10) https://autogroup.by/
-11) https://github.com/Irenshen/camping
-12) https://vashkosmetolog.by/  <!--(pages - Main, Online consultation)-->
-13) https://flexoil.by/ <!--(pages - Main, Contacts)-->
-14) https://vetdom.by/ <!--(pages - Main, и ZOOHOUSE)-->
-15) https://www.bsmu.by/ (some pages + Basic layout on Bitrix)
-et al.
-16) https://bnb.by/ (some pages)
+*** HTML/CSS/JS (vanilla)
+2) https://irenshen.github.io/a-100/
+*** Animations
+3) https://github.com/Irenshen/magic-a-100
+4) https://carlet.lt/, https://github.com/Irenshen/Carlet
+5) https://itach.by/about/
+   
+## 🖼 Landing Pages
+1) https://autobroker.kz/
+2) https://dev.itach.by/landing/asterisk/
+3) https://dev.itach.by/landing/cms/
+4) https://dev.itach.by/landing/bitrix24/
+5) https://dev.itach.by/landing/developer/
+6) https://dev.itach.by/landing/
+
+## 🌐 Multi-page Websites
+1) https://itach.by/
+2) https://github.com/Irenshen/tour
+3) https://autogroup.by/
+4) https://vashkosmetolog.by/
+5) https://flexoil.by/
+6) https://vetdom.by/
+
+## 🛠 Internal Tools & Accounts
+1) https://github.com/Irenshen/netera
+2) https://github.com/Irenshen/delivery
+
+## 📄 Selected Pages / Partial Layouts
+1) https://siberian.pro/
+2) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100, https://github.com/Irenshen/a-100-group, https://github.com/Irenshen/a-100-fuel, https://github.com/Irenshen/magic-a-100
+3) https://github.com/Irenshen/camping
+4) https://www.bsmu.by/ ( https://medmag.bsmu.by/, https://www.bsmu.by/meropriyatiya/)
+5) https://bnb.by/
+
+<!-- Печатник !!!  -->
+
 
 📄 <b>Full commercial project list:</b> <br>
 <a href="https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?usp=sharing" target="_blank">Google Docs – Portfolio (on request)</a>
