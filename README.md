@@ -114,7 +114,7 @@
 
 ---
 
-## 📄📄📄📄📄 Full Commercial Project List 📄📄📄📄📄
+## 📄 Full Commercial Project List 
 👉 [Google Docs – Portfolio (on request)](https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?usp=sharing)
 
 ---
