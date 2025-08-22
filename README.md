@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irena – Front-End Developer  
+# 👋 Hi, I'm Irena – Front-End / Web (Wordpress) Developer  
 *Specializing in responsive, cross-browser layout and WordPress site administration.*
 
 ---
