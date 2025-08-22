@@ -85,13 +85,15 @@ Location: Belarus
 
 <!-- Печатник !!!  -->
 
-
+<br>
+<br>
 📄 <b>Full commercial project list:</b> <br>
 <a href="https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?usp=sharing" target="_blank">Google Docs – Portfolio (on request)</a>
 
 <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
 
-
+<br>
+<br>
 🧪 <b>Personal Projects / Practice Layouts</b> <br>
 Self-study projects and test layouts.
 1) https://github.com/Irenshen/PizzaTime/
