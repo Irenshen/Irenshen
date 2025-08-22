@@ -45,8 +45,8 @@ Location: Belarus
    
 ⚡ <b>Commercial Website Layout (HTML/CSS/JS)</b><br>
 
-## ⚡ Featured Projects
-*** Gulp/Webpack build systems:<br>
+## ⚡ Featured Projects <br>
+  *** Gulp/Webpack build systems:<br>
 1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling ) <br>
 *** HTML/CSS/JS (vanilla)<br>
 2) https://irenshen.github.io/a-100/ <br>
