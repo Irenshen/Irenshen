@@ -1,4 +1,4 @@
-[### Hi, I'm Irena – a front-end developer specializing in responsive, cross-browser layout and WordPress site administration 👋
+### Hi, I'm Irena – a front-end developer specializing in responsive, cross-browser layout and WordPress site administration 👋
 
 📫 <b>Contact:</b><br>
 Email: gavrirena@yandex.ru <br>
@@ -48,13 +48,13 @@ Location: Belarus
 ⚡ <b>Featured Projects</b> <br>
 
 *** Gulp/Webpack build systems:<br>
-1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling ) <br><br>
+- [Selfielab](https://github.com/Irenshen/selfielab) – responsive website, bundling with **Gulp + Webpack**
 *** HTML/CSS/JS (vanilla)<br>
-2) https://irenshen.github.io/a-100/ <br><br>
+- [A-100 Demo](https://irenshen.github.io/a-100/) – semantic, responsive layout
 *** Animations<br>
-3) https://github.com/Irenshen/magic-a-100 <br>
-4) https://carlet.lt/, https://github.com/Irenshen/Carlet<br>
-5) https://itach.by/about/<br>
+- [Magic A-100](https://github.com/Irenshen/magic-a-100) – interactive animations
+- [Carlet](https://carlet.lt/) · [repo](https://github.com/Irenshen/Carlet) – marketplace with animated effects
+- [Itach About Page](https://itach.by/about/) – custom animated section
    
 🖼 <b>Landing Pages</b>
 1) https://autobroker.kz/
@@ -105,8 +105,6 @@ Self-study projects and test layouts.
 7) https://github.com/Irenshen/form
 
 
-
-
 <!--
 
 ### Hi there 👋
@@ -128,4 +126,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](https://github.com/Irenshen/Irenshen/edit/main/README.md)
