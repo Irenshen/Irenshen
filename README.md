@@ -46,10 +46,13 @@ Location: Belarus
 ⚡ <b>Commercial Website Layout (HTML/CSS/JS)</b><br>
 
 ## ⚡ Featured Projects <br>
-  *** Gulp/Webpack build systems:<br>
-1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling ) <br>
-*** HTML/CSS/JS (vanilla)<br>
-2) https://irenshen.github.io/a-100/ <br>
+
+*** Gulp/Webpack build systems:<br>
+1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling ) <br><br>
+
+*** HTML/CSS/JS (vanilla)
+2) https://irenshen.github.io/a-100/ <br><br>
+
 *** Animations<br>
 3) https://github.com/Irenshen/magic-a-100
 4) https://carlet.lt/, https://github.com/Irenshen/Carlet
