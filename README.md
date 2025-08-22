@@ -12,6 +12,21 @@
 ---
 
 ## 🔧 Hard Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Bitrix](https://img.shields.io/badge/Bitrix-CF2E2E?style=flat&logo=bitrix24&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+
+
 - **HTML5**, **CSS3** (Flexbox, Grid), **SCSS**, **BEM**
 - **JavaScript**, **jQuery** (incl. legacy code support)
 - Responsive, semantic, and cross-browser layout
@@ -26,8 +41,9 @@
 
 ## 🌐 CMS Experience
 - **WordPress:** Full site administration and support, building websites from scratch, custom HTML integration, block customization, plugin setup, and content management.  
-- **Bitrix:** Site administration, component setup/configuration, template editing, content filling.  
- <!-- ⚡ <b>Website ADMINISTRATION projects:</b>
+- **Bitrix:** Site administration, component setup/configuration, template editing, content filling.
+- 
+⚡ <b>Website ADMINISTRATION projects:</b>
 1) http://ditva.by/
 2) https://bellegprom.by/
 3) https://online.maxi-english.by/
@@ -36,8 +52,13 @@
 6) https://itach-soft.com/
 7) https://www.bsmu.by/
 8) https://ph2.by/
-9) https://bazarchik.by/  -->
----
+9) https://bazarchik.by/  
+10) https://vierracommunities.com/
+11) https://theatlasdom.com/
+12) https://whitehousehealthcare.com/
+13) https://oakwoodresidence.com/
+14) theregencyatglencove.com
+15) and etc.
 
 ## 💬 Languages
 - **English** – B1 (Intermediate)
