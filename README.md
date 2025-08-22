@@ -65,7 +65,7 @@
 
 ---
 
-## ⚡ <span style="color:red">Featured Projects</span>
+## ⚡⚡⚡⚡⚡ Featured Projects ⚡⚡⚡⚡⚡
 ### 🛠 Gulp / Webpack
 - [Selfielab](https://github.com/Irenshen/selfielab) – responsive website, bundling with **Gulp + Webpack**
 
@@ -114,7 +114,7 @@
 
 ---
 
-## 📄 <span style="color:red">Full Commercial Project List</span>
+## 📄📄📄📄📄 Full Commercial Project List 📄📄📄📄📄
 👉 [Google Docs – Portfolio (on request)](https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?usp=sharing)
 
 ---
