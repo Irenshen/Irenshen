@@ -45,9 +45,9 @@ Location: Belarus
    
 ⚡ <b>Commercial Website Layout (HTML/CSS/JS)</b><br>
 
-⚡ Featured Projects <br>
+⚡ <b>Featured Projects</b> <br>
 
-   *** Gulp/Webpack build systems:<br>
+*** Gulp/Webpack build systems:<br>
 1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling ) <br><br>
 *** HTML/CSS/JS (vanilla)<br>
 2) https://irenshen.github.io/a-100/ <br><br>
@@ -56,7 +56,7 @@ Location: Belarus
 4) https://carlet.lt/, https://github.com/Irenshen/Carlet<br>
 5) https://itach.by/about/<br>
    
-🖼 Landing Pages
+🖼 <b>Landing Pages</b>
 1) https://autobroker.kz/
 2) https://dev.itach.by/landing/asterisk/
 3) https://dev.itach.by/landing/cms/
@@ -64,7 +64,7 @@ Location: Belarus
 5) https://dev.itach.by/landing/developer/
 6) https://dev.itach.by/landing/
 
- 🌐 Multi-page Websites
+🌐 <b>Multi-page Websites</b>
 1) https://itach.by/
 2) https://github.com/Irenshen/tour
 3) https://autogroup.by/
@@ -72,11 +72,11 @@ Location: Belarus
 5) https://flexoil.by/
 6) https://vetdom.by/
 
-🛠 Internal Tools & Accounts
+🛠 <b>Internal Tools & Accounts</b>
 1) https://github.com/Irenshen/netera
 2) https://github.com/Irenshen/delivery
 
-## 📄 Selected Pages / Partial Layouts
+📄 <b>Selected Pages / Partial Layouts</b>
 1) https://siberian.pro/
 2) https://azs.a-100.by/ (some pages) -  https://github.com/Irenshen/a-100, https://github.com/Irenshen/a-100-group, https://github.com/Irenshen/a-100-fuel, https://github.com/Irenshen/magic-a-100
 3) https://github.com/Irenshen/camping
