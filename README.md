@@ -49,14 +49,12 @@ Location: Belarus
 
 *** Gulp/Webpack build systems:<br>
 1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling ) <br><br>
-
-*** HTML/CSS/JS (vanilla)
+*** HTML/CSS/JS (vanilla)<br>
 2) https://irenshen.github.io/a-100/ <br><br>
-
 *** Animations<br>
-3) https://github.com/Irenshen/magic-a-100
-4) https://carlet.lt/, https://github.com/Irenshen/Carlet
-5) https://itach.by/about/
+3) https://github.com/Irenshen/magic-a-100 <br>
+4) https://carlet.lt/, https://github.com/Irenshen/Carlet<br>
+5) https://itach.by/about/<br>
    
 ## 🖼 Landing Pages
 1) https://autobroker.kz/
