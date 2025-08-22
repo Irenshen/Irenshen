@@ -43,9 +43,9 @@ Location: Belarus
 9) https://bazarchik.by/  -->
 
    
-⚡ <b>Commercial Website Layout (HTML/CSS/JS)</b><br>
+##⚡ <b>Commercial Website Layout (HTML/CSS/JS)</b><br>
 
-⚡ <b>Featured Projects</b> <br>
+##⚡ <b>Featured Projects</b> <br>
 - [Selfielab](https://github.com/Irenshen/selfielab) – responsive website, bundling with **Gulp + Webpack**
 - [A-100 Demo](https://irenshen.github.io/a-100/) – semantic, responsive layout
 - [Magic A-100](https://github.com/Irenshen/magic-a-100) – interactive animations
@@ -83,14 +83,14 @@ Location: Belarus
 
 <br>
 <br>
-📄 <b>Full commercial project list:</b> <br>
+## 📄 <b>Full commercial project list:</b> <br>
 <a href="https://docs.google.com/document/d/1WLt7IoOvrdWLMwGdfelts3UMoT-YCUK380-vcPlWasM/edit?usp=sharing" target="_blank">Google Docs – Portfolio (on request)</a>
 
 <!-- https://www.aversev.by/ https://rivalauto.ru/ https://prodexpo.by/-->
 
 <br>
 <br>
-🧪 <b>Personal Projects / Practice Layouts</b> <br>
+## 🧪 <b>Personal Projects / Practice Layouts</b> <br>
 Self-study projects and test layouts.
 1) https://github.com/Irenshen/PizzaTime/
 2) https://github.com/Irenshen/Japan/
