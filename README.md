@@ -47,9 +47,9 @@ Location: Belarus
 
 ## ⚡ Featured Projects
 *** Gulp/Webpack build systems:<br>
-1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling )
+1) https://github.com/Irenshen/selfielab (The project uses Gulp and Webpack for bundling ) <br>
 *** HTML/CSS/JS (vanilla)<br>
-2) https://irenshen.github.io/a-100/
+2) https://irenshen.github.io/a-100/ <br>
 *** Animations<br>
 3) https://github.com/Irenshen/magic-a-100
 4) https://carlet.lt/, https://github.com/Irenshen/Carlet
