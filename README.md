@@ -134,6 +134,7 @@ Self-study projects and test layouts:
 5. https://github.com/Irenshen/manao/  
 6. https://irenshen.github.io/Loremipsum/  
 7. https://github.com/Irenshen/form
+8. https://github.com/Irenshen/Wordpress
  <!-- Печатник !!!  -->
    
 
