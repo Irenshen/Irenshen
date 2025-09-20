@@ -62,7 +62,7 @@
 16) https://theatlashcg.com/
 17) https://theatlasdom.com/
 18) https://www.maywoodrehab.com/
-19) theregencyatglencove.com/
+19) https://theregencyatglencove.com/
 20) https://vierracommunities.com/
 21) and etc.
 
