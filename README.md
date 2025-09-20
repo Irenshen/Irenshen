@@ -58,7 +58,13 @@
 12) https://whitehousehealthcare.com/
 13) https://oakwoodresidence.com/
 14) https://theregencyatglencove.com/
-15) and etc.
+15) https://woodburypac.com/
+16) https://theatlashcg.com/
+17) https://theatlasdom.com/
+18) https://www.maywoodrehab.com/
+19) theregencyatglencove.com
+20) https://vierracommunities.com/
+21) and etc.
 
 ## 💬 Languages
 - **English** – B1 (Intermediate)
