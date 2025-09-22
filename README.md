@@ -139,6 +139,7 @@ Self-study projects and test layouts:
 * Wordpress
 1. https://github.com/Irenshen/Wordpress
 * Vue
+1. https://github.com/Irenshen/Forecast
  <!-- Печатник !!!  -->
    
 
