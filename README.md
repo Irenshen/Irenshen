@@ -34,6 +34,7 @@
 - Performance optimization (page load speed)
 - **WordPress** (ACF Pro, CF7, CPT, Yoast, WP Rocket, etc.)
 - **Bitrix** (template editing, component customization, content/product card management)
+- Vue.js (educational, pet projects)
 - Tools: **Gulp**, **Webpack**, **Git**, **GitLab**, **Postman**
 - UI Tools: **Figma**, **Photoshop**
 
