@@ -34,7 +34,7 @@
 - Responsive, semantic, and cross-browser layout
 - Animations: `@keyframes`, AOS, SVG
 - Performance optimization (page load speed)
-- **WordPress** (ACF Pro, CF7, CPT, Yoast, WP Rocket, etc.)
+- **WordPress** (ACF Pro, Custom Post Types, Contact Form 7 / Gravity Forms, Yoast SEO, WooCommerce, Wordfence Security, W3 Total Cache / LiteSpeed Cache etc.)
 - **Bitrix** (template editing, component customization, content/product card management)
 - Tools: **Gulp**, **Webpack**, **Git**, **GitLab**, **Postman**
 - UI Tools: **Figma**, **Photoshop**
