@@ -126,8 +126,9 @@
 
 ---
 
-## 🧪 Personal Projects / Practice Layouts
+## 🧪 Pet Projects / Practice Layouts
 Self-study projects and test layouts:
+* Front (Html,Css,Js)
 1. https://github.com/Irenshen/PizzaTime/  
 2. https://github.com/Irenshen/Japan/  
 3. https://github.com/Irenshen/TestSite/  
@@ -135,7 +136,9 @@ Self-study projects and test layouts:
 5. https://github.com/Irenshen/manao/  
 6. https://irenshen.github.io/Loremipsum/  
 7. https://github.com/Irenshen/form
-8. https://github.com/Irenshen/Wordpress
+* Wordpress
+1. https://github.com/Irenshen/Wordpress
+* Vue
  <!-- Печатник !!!  -->
    
 
