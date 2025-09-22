@@ -44,7 +44,7 @@
 - **WordPress:** Full site administration and support, building websites from scratch, custom HTML integration, block customization, plugin setup, and content management.  
 - **Bitrix:** Site administration, component setup/configuration, template editing, content filling.
   
-⚡ <b>Website ADMINISTRATION projects:</b>
+⚡ <b>Website ADMINISTRATION & WEB-developer projects:</b>
 1) http://ditva.by/
 2) https://bellegprom.by/
 3) https://online.maxi-english.by/
