@@ -140,6 +140,7 @@ Self-study projects and test layouts:
 1. https://github.com/Irenshen/Wordpress
 * Vue
 1. https://github.com/Irenshen/Forecast
+2. https://github.com/Irenshen/Coctails
  <!-- Печатник !!!  -->
    
 
