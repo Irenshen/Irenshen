@@ -27,7 +27,7 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 
-- **HTML5**, **CSS3** (Flexbox, Grid), **SCSS/LESS**, **BEM**, Bootstrap
+- **HTML5**, **CSS3** (Flexbox, Grid), **SCSS/SASS/LESS**, **BEM**, Bootstrap
 - **JavaScript**, **jQuery** (incl. legacy code support)
 - Responsive, semantic, and cross-browser layout
 - Animations: `@keyframes`, AOS, SVG
